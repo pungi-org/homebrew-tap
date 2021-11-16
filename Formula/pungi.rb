@@ -1,8 +1,8 @@
 class Pungi < Formula
   desc "A charming way to manage Python versions."
   homepage "https://github.com/pungi-org/pungi"
-  url "https://github.com/pungi-org/pungi/archive/refs/tags/v0.3.0.tar.gz"
-  sha256 "c8478cb4b0e413925ea32e6cda4327aec7ae7f3c0e6e070d341df13b0a031f0b"
+  url "https://github.com/pungi-org/pungi/archive/refs/tags/v0.3.1.tar.gz"
+  sha256 "812e47c70aaae56002c78faafb9014353929cb3ddcd302a6596a14d8e65bf2fc"
   license "MIT"
   version_scheme 1
   head "https://github.com/pungi-org/pungi.git", branch: "trunk"
